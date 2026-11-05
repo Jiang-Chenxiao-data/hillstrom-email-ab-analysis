@@ -1,0 +1,23 @@
+﻿treatment,feature,smd
+Mens E-Mail,recency,0.006831532454259612
+Mens E-Mail,history,0.007612868321542449
+Mens E-Mail,mens,-0.004582325637488713
+Mens E-Mail,womens,0.007588929691886018
+Mens E-Mail,newbie,-0.0008918953696535858
+Mens E-Mail,zip_code_Rural,0.01365900039927919
+Mens E-Mail,zip_code_Surburban,-0.011743356726062587
+Mens E-Mail,zip_code_Urban,0.001972231576851366
+Mens E-Mail,channel_Multichannel,-0.004181536419632744
+Mens E-Mail,channel_Phone,-0.008275992307116864
+Mens E-Mail,channel_Web,0.011013588354429853
+Womens E-Mail,recency,0.005180013205688764
+Womens E-Mail,history,0.006510722458553704
+Womens E-Mail,mens,-0.008630731202833338
+Womens E-Mail,womens,0.004946313992581982
+Womens E-Mail,newbie,0.0025567009140795766
+Womens E-Mail,zip_code_Rural,0.003958505601372757
+Womens E-Mail,zip_code_Surburban,-0.0010891197386244749
+Womens E-Mail,zip_code_Urban,-0.0017628666291550875
+Womens E-Mail,channel_Multichannel,-0.0052828971250421415
+Womens E-Mail,channel_Phone,0.008622833281250632
+Womens E-Mail,channel_Web,-0.00514786389742251

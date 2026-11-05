@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-04",
+  "raw_sha256": "0e5893329d8b93cefecc571777672028290ab69865718020c78c7284f291aece",
+  "row_count": 64000,
+  "buyers": 578,
+  "identical_rows_beyond_first": 6562,
+  "checks": [
+    "raw_vs_existing_sql_exports_all_3_groups",
+    "independent_sqlite_integer_cents_aggregation",
+    "newcombe_vs_manual_wilson_combination",
+    "welch_summary_vs_raw_records",
+    "equal_allocation_chisquare_diagnostic",
+    "pre_experiment_feature_smd"
+  ],
+  "sample_ratio_diagnostic": {
+    "expected_ratio": "1:1:1 (approximate publisher description)",
+    "chi_square": 0.20253125000000002,
+    "df": 2,
+    "p_value": 0.9036929575604196
+  },
+  "max_absolute_baseline_smd": 0.01365900039927919,
+  "figure_files": [
+    "figures/01_group_outcomes.png",
+    "figures/02_increment_intervals.png"
+  ],
+  "visual_review": "Both PNGs inspected: plotted values and bounds match tables; Chinese labels and captions readable; no clipping seen.",
+  "mysql_connected": false,
+  "versions": {
+    "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]",
+    "pandas": "2.3.3",
+    "numpy": "2.3.5",
+    "scipy": "1.16.3",
+    "statsmodels": "0.14.5",
+    "matplotlib": "3.10.6"
+  },
+  "figures_sha256": {
+    "figures/01_group_outcomes.png": "c71dceb73e92247a46f4f90232f76689bd2ada6cb3c07435e8e2177d64637c07",
+    "figures/02_increment_intervals.png": "a9343b6d04427be229d14af14afbf9f2ce729331e8c12c8f5bb337c4c27df97b"
+  },
+  "visual_review_basis": "Previously inspected images; exact SHA-256 hashes unchanged.",
+  "report_link_check": "11 local links and all 8 contents anchors checked",
+  "numerical_narrative_check": "Four main effect/interval rows and retrospective/exploratory labels checked; source business statement preserved verbatim.",
+  "structure_check": "Credibility checks precede results; detailed methods, p-values, profit formula and reconciliation are in appendices.",
+  "review_status": "Share with caveats"
+}

@@ -1,0 +1,123 @@
+{
+  "validated_on": "2026-11-05",
+  "scope": "release README key figures, local links, Python syntax and archive hashes; not a new MySQL run",
+  "local_links_checked": 13,
+  "file_count": 23,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 121,
+      "sha256": "2cfd7c0f20f737ce96ce1bd535552b5492dbc39091ed44ed331d46bd43f02b5b"
+    },
+    {
+      "path": "data/analysis_output/experiment_group_summary.csv",
+      "bytes": 327,
+      "sha256": "a58927274c9f89ddd284870ed8fa33ac5a1356cb64a6c5010dad8370c08dc29e"
+    },
+    {
+      "path": "data/analysis_output/experiment_spend_summary.csv",
+      "bytes": 259,
+      "sha256": "1c79ac5b18b1a8a15aac0f7a2a3d53ac26676ceb38850fd75a0402db04a105ec"
+    },
+    {
+      "path": "data/analysis_output/report_baseline_balance.csv",
+      "bytes": 1071,
+      "sha256": "e6bff12f1c4454db1b71af29b5e3fc5a9fe14a3ce127b2232bcfafb03e7b5f75"
+    },
+    {
+      "path": "data/analysis_output/report_direct_comparison.csv",
+      "bytes": 557,
+      "sha256": "719e8c77b741e215e0811566205cc4ad01f17615c3ea646634e201dfad70ee43"
+    },
+    {
+      "path": "data/analysis_output/report_effects.csv",
+      "bytes": 867,
+      "sha256": "c742a3040be3e960bb8ef73032015e21d27586fae0ae131e8766e1838ccd5f85"
+    },
+    {
+      "path": "data/analysis_output/report_group_summary.csv",
+      "bytes": 377,
+      "sha256": "e4ffc4d4eb302bbe08335d0a4acdd3effaf93143f47d4c9aca45d0cffa09ff57"
+    },
+    {
+      "path": "docs/historical_validation_20261104.json",
+      "bytes": 2024,
+      "sha256": "51d8babeda71cf5473cfe1de7691a0a03382243646ce844cf3eef9bf21e9a1eb"
+    },
+    {
+      "path": "docs/release_validation.json",
+      "bytes": 560,
+      "sha256": "8c367f825f5dd150ffe61aebcc053049ed60dcfa15e4c469f67522cdb0b38a53"
+    },
+    {
+      "path": "docs/REPRODUCE.md",
+      "bytes": 2078,
+      "sha256": "641863f7e9797443d54e41c0a8ae34c09a35e6718dc408ef8f828c59ad734709"
+    },
+    {
+      "path": "docs/RESUME.md",
+      "bytes": 883,
+      "sha256": "5935ca3e7133b71239e9b2dbc5c0368cba59b442072c007a00c4e8b8058950f9"
+    },
+    {
+      "path": "figures/01_group_outcomes.png",
+      "bytes": 100308,
+      "sha256": "c71dceb73e92247a46f4f90232f76689bd2ada6cb3c07435e8e2177d64637c07"
+    },
+    {
+      "path": "figures/02_increment_intervals.png",
+      "bytes": 97083,
+      "sha256": "a9343b6d04427be229d14af14afbf9f2ce729331e8c12c8f5bb337c4c27df97b"
+    },
+    {
+      "path": "python/01_purchase_rate_effect.py",
+      "bytes": 2752,
+      "sha256": "49585e04f8c69b1d0d234c42db73bf3514177477cf93ffc4d73c1fc11f66d327"
+    },
+    {
+      "path": "python/02_spend_effect.py",
+      "bytes": 2733,
+      "sha256": "b74c2885b2018d8f6a8a456ac877d60012b78385ffecdda5d79341da0d87c0f3"
+    },
+    {
+      "path": "python/03_build_report.py",
+      "bytes": 14273,
+      "sha256": "356edeac8dd7119ed782f7e6b48253a810f2f31a0e5b96757190dc38c697b347"
+    },
+    {
+      "path": "python/report_template.md",
+      "bytes": 14498,
+      "sha256": "45ae46160ad32cef5d2b0a52c83ff8f65c0c5159cb247469d3efe5649d093b1e"
+    },
+    {
+      "path": "python/verify_published_results.py",
+      "bytes": 2692,
+      "sha256": "5d98dd552b9cd4a7d12e91e94815534341feee69dfeef179668c5988c3f46644"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3109,
+      "sha256": "07337e360984091b0abb0ea9c3e445121e1c10f4a2b920dc16ef4526ad2de72d"
+    },
+    {
+      "path": "report/report.docx",
+      "bytes": 251695,
+      "sha256": "015bf39b9a432e18ef2d0db0b98e3a3603a9891c977bf4977d6cad8007ceb095"
+    },
+    {
+      "path": "report/report.md",
+      "bytes": 19174,
+      "sha256": "44eff47a71ecea35e136ae537b53de65680b2cc7ab0882f67aeba9e3714282f8"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 85,
+      "sha256": "68dc30d9b1977930f861ca0a51c0f2373e3e8b7409c4592c568d7bae93bc8121"
+    },
+    {
+      "path": "业务问题说明.md",
+      "bytes": 1034,
+      "sha256": "850033811556fa02417d4293781039c2aacd6abf7c6ecd152cc3ebe0293068cf"
+    }
+  ]
+}

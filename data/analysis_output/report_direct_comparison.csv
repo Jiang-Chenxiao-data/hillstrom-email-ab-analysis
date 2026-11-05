@@ -1,0 +1,2 @@
+﻿treatment,baseline,role,ci_level,rate_diff,rate_relative_lift,rate_ci_low,rate_ci_high,extra_buyers_per_1000,rate_p_raw,rate_p_adjusted,spend_diff,spend_relative_lift,spend_ci_low,spend_ci_high,spend_p_raw,spend_p_adjusted
+Mens E-Mail,Womens E-Mail,exploratory_direct_comparison,0.95,0.003693949008530437,0.4180025790764046,0.0017462848141901722,0.005662614423391559,3.693949008530437,0.00020518903248749977,0.00020518903248749977,0.3454149399579398,0.32065952115344776,0.032561449626095085,0.6582684302897845,0.030468651185299362,0.030468651185299362
