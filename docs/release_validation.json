@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-05",
-  "final_report_sha256": "015bf39b9a432e18ef2d0db0b98e3a3603a9891c977bf4977d6cad8007ceb095",
-  "report_selected": "2026-11-04 reference report revision",
+  "date": "2026-11-07",
+  "final_report_sha256": "8a3bc8536d2b299c78aef4bed315bd9afdc9d5dc20121ab7537d16993382a4df",
+  "report_selected": "Revised to match user reference structure and business language",
   "mysql_connected": false,
   "readme_key_figures_independently_reconciled": true,
   "original_raw_data_published": false,
